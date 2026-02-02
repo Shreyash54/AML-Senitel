@@ -14,7 +14,9 @@ dist/
 
 # Project specific
 db.sqlite3
-dashboard/ml/models/isolation_forest.joblib
+# dashboard/ml/models/isolation_forest.joblib
+venv_new/
+.venv_new/
 .ipynb_checkpoints/
 *.xlsx
 *.csv
